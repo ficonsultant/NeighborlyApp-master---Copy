@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": true,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "Python",
+    "--name": "CfDJ8FnwGuRKzmtEmr75+s+UaY+lwBQGdBKectLp3euVjp9MTVYSoZNGPkk1Wcw1jREaiEOfWodCM+HOpavMIllpho+XgNnuhRQZ8qM7jaoKSdNbHyiKK0Wzpc/rjJw7yzu9tA=="
+  },
+  "ConnectionStrings": {}
+}
