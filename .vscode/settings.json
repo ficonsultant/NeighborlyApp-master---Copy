@@ -5,5 +5,7 @@
     "azureFunctions.projectLanguage": "Python",
     "azureFunctions.projectRuntime": "~4",
     "debug.internalConsoleOptions": "neverOpen",
-    "restructuredtext.confPath": ""
+    "restructuredtext.confPath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/d6eb4e96-895d-4549-8a11-f65885fa37b2/resourceGroups/neighborlyapprg/providers/Microsoft.Web/sites/neighborlywebapp",
+    "appService.deploySubpath": "NeighborlyFrontEnd"
 }
