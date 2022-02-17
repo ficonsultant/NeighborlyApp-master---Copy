@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'neighborlywebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0C5B02FD84C4AA9ADF173F562FE72C2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E6F40070EAEE4321BAD1818DB8243DED }}
